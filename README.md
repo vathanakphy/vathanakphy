@@ -1,1 +1,2 @@
-<!-- <img width="2070" height="1306" alt="Image" src="https://github.com/user-attachments/assets/0a0d87fd-8566-48dc-a7e7-a78723b3a802" /> -->
+
+[![View My Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-2563EB?style=for-the-badge)](https://nak-dev.netlify.app/)
